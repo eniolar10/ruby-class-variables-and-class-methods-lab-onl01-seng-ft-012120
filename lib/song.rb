@@ -3,6 +3,7 @@ end
 
 Song.count
 Song.artists
+Song.genres
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
 
