@@ -6,3 +6,4 @@ ninety_nine_problems.name
 
 ninety_nine_problems.artist
 
+ninety_nine_problems.genre
