@@ -7,3 +7,4 @@ ninety_nine_problems.name
 ninety_nine_problems.artist
 
 ninety_nine_problems.genre
+Song.genre_count
